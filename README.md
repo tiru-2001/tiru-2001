@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirumalesha E</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
 <img  align="right" src="https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg" width="100%"  height="400px" alt="coding"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiru-2001&label=Profile%20views&color=0e75b6&style=flat" alt="tiru-2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiru-2001" alt="tiru-2001" /></a> </p>
