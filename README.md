@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiru-2001" alt="tiru-2001" /></a> </p>
 
-- 🌱 I’m currently learning **reactjs,tailwindcss**
 
 - 👯 I’m looking to collaborate on **mern**
 
